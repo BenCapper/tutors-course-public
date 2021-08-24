@@ -1,3 +1,3 @@
-# Setup 
+# Tutors Docs
 
-Setting up Tutors and its dependencies.
+Documentation for the Tutors application.
