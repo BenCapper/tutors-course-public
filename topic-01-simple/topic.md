@@ -1,3 +1,3 @@
 # Tutors Docs
 
-Documentation for the Tutors application.
+Documentation for the Tutors application
