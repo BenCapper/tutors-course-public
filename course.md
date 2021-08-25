@@ -1,3 +1,3 @@
 # Tutors Docs
 
-A course on how to use the Tutors appliction.
+<b>Documentation for the Tutors appliction</b>
