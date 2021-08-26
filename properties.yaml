@@ -6,4 +6,4 @@ ignorepin : 1111
 auth      : 0
 analytics : 1
 ignore    : 
-  - topic-05-next
+  - topic-05-hidden
