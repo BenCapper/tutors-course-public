@@ -1,3 +1,3 @@
-# tutors-starter
+# tutors-course-public
 
-A starter course structure for the tutors generator
+Documentation for the Tutors application.
