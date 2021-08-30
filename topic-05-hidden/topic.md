@@ -1,3 +1,3 @@
-# Hidden Simple 
+# Typora
 
-Just lectures and labs
+<b>Download and use Typora</b>
