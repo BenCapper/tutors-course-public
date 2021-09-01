@@ -1,7 +1,7 @@
 ---
 icon:
   type: heroicons-outline:book-open
-  color: black
+  color: #3dc43b
 ---
 
 # Tutors Documentation
